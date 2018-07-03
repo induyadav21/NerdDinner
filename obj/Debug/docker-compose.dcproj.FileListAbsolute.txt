@@ -1,0 +1,2 @@
+C:\Users\hcluser\Preity\nerddinner-2c36d1fc1a27d534684117ec287311fea85f800c\mvc3\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\indu\Downloads\mvc3\mvc3\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

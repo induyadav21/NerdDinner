@@ -1,0 +1,2 @@
+C:\Users\hcluser\Preity\nerddinner-2c36d1fc1a27d534684117ec287311fea85f800c\mvc3\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.csprojResolveAssemblyReference.cache
+C:\Users\hcluser\Preity\nerddinner-2c36d1fc1a27d534684117ec287311fea85f800c\mvc3\NerdDinner.Tests\obj\Debug\NerdDinner.Tests.csproj.CoreCompileInputs.cache
